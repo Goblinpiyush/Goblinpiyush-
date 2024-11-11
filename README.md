@@ -1,6 +1,30 @@
 # Goblinpiyush-
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Data analysis projects with a focus on improving business insights and decision-making. My latest projects involve creating dashboards, conducting exploratory data analysis (EDA), and predictive modeling.
+
+👯 Looking to collaborate on Data analysis, visualization, and machine learning projects, especially those in business intelligence or data-driven decision-making fields.
+
+🤝 Looking for help with Enhancing my skills in advanced machine learning techniques and big data tools. I’m open to advice on building efficient data pipelines and optimizing data workflows.
+
+🌱 Currently learning: Advanced SQL concepts (window functions, CTEs), Python for data modeling, and Power BI for dynamic dashboarding.
+
+💬 Ask me about: Data visualization, Power BI, SQL, Python for EDA, and time series analysis.
+
+⚡ Fun fact: I’m a two-time college chess champion and love analyzing cricket statistics in my free time!
+
+
+
+
+
+
+
+
+
+
+
+
+
+ChatGPT can make mistakes. Che .<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
